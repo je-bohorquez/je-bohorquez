@@ -1,12 +1,13 @@
-<div align="center">
-<h2 align="center">Hi, This is <a href="https://je-bohorquez.github.io/Portfolio/">Juan Eder</a> 👋</h2>
-</div>
 <img src="banner je.png">
 
+<div align="center">
+<h2 align="center">Hi there!👋 I'm <a href="https://je-bohorquez.github.io/Portfolio/">Juan Eder</a></h2>
+</div>
+
 ## 🙋 About me
-- 🧑‍💻 I'm an Business Analyticss  
-- 📊 Data Analysis
-- 🎯 Become in a Data Scientist
+- 🧑‍💻 I'm a Business Engineering 
+- 📊 I work as a Business Analytics
+- 🎯 I want to become a Data Scientist
 - 🌐 Network: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Eder-blue)](https://www.linkedin.com/in/je-bohorquez)
 - 💼 Portfolio: https://je-bohorquez.github.io/Portfolio/
 
