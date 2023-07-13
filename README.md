@@ -5,8 +5,8 @@
 </div>
 
 ## 🙋 About me
-- 🧑‍💻 I'm a Business Engineering 
-- 📊 I work as a Business Analytics
+- 🧑‍💻 I'm a Business Engineer
+- 📊 I work as a Business Analytics Analyst
 - 🎯 I want to become a Data Scientist
 - 🌐 Network: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Eder-blue)](https://www.linkedin.com/in/je-bohorquez)
 - 💼 Portfolio: https://je-bohorquez.github.io/Portfolio/
