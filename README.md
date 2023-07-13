@@ -7,7 +7,8 @@
 - 🧑‍💻 I'm an Business Analyticss  
 - 📊 Data Analysis
 - 🎯 Become in a Data Scientist
-- 💼 Contact me -> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Eder-blue)](https://www.linkedin.com/in/je-bohorquez)
+- 🌐 Network: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Eder-blue)](https://www.linkedin.com/in/je-bohorquez)
+- 💼 Portfolio: https://je-bohorquez.github.io/Portfolio/
 
 
 <div align = "left">
